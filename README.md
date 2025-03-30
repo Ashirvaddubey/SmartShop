@@ -7,5 +7,5 @@ For css i have used Tailwind css
 2.go to frontend directory-Command-:npm i
 3.same with backend also
 4.know in root directory run "npm run dev"
-# Demo video-
+# Demo video-https://drive.google.com/drive/u/0/quota?q=after:2025-03-30
 
