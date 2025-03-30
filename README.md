@@ -1,4 +1,4 @@
-# SmartShop
+# SmartShop-Shopping plus product management
 # Technology used- Node.js,Express.js,MongoDB,and React,Tailwind.css framework for payment I have used Paypal gateway
 For css i have used Tailwind css
 # TO Run the Project
